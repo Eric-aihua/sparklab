@@ -1,0 +1,20 @@
+1.106.7.37	{"traits": {"is_proxy": "false", "latest_user_type_update_time": "", "latest_record_update_time": "2019-02-17", "latest_proxy_time": "", "latest_idc_time": "", "as_number": 4766, "daily average
+number of endpoints with the same IP address in latest 7 days": "", "user_type": "", "is_idc": "false", "service_provider": "Korea Telecom", "proxy_type": "", "latest_domain_time": "", "latest_domain": ""}, "ge
+o_location": {"city": "", "country": "\u97e9\u56fd", "longitude": "127.850166", "district/county": "", "latitude": "36.448151", "township": "", "province/state": "\u97e9\u56fd"}, "web_attack": [], "score": {"36
+0_ip_riskscore": "0", "ip_address": "1.106.7.37"}, "malicious_type": {"latest_brute_force_time": "", "is_web_attacker": "false", "scanner_confidence": "", "compromised_info": [{"latest_compromised_time": "2018-
+08-20", "malware_type": "\u50f5\u5c38\u7f51\u7edc", "malware_family": "Nitol"}], "is_ddos": "true", "is_brute_force": "false", "is_ddos_active_or_passive": "active", "latest_web_attack_time": "", "latest_scanne
+r_time": "", "is_malicious": "true", "latest_spam_time": "", "latest_ddos_time": "2017-01-18", "latest_compromised_time": "2018-08-20", "is_spam": "false", "latest_malicious_time": "2018-08-20", "is_scanner": "
+false", "ddos_confidence": "40%", "is_compromised": "true"}}
+1.119.131.20	{"traits": {"is_proxy": "false", "latest_user_type_update_time": "", "latest_record_update_time": "2019-02-17", "latest_proxy_time": "", "latest_idc_time": "", "as_number": 4847, "daily average
+number of endpoints with the same IP address in latest 7 days": "", "user_type": "", "is_idc": "false", "service_provider": "China Networks Inter-Exchange", "proxy_type": "", "latest_domain_time": "2019-02-17",
+"latest_domain": "oa.teller.cn"}, "geo_location": {"city": "\u5317\u4eac", "country": "\u4e2d\u56fd", "longitude": "116.405285", "district/county": "", "latitude": "39.904989", "township": "", "province/state"
+"\u5317\u4eac"}, "web_attack": [], "score": {"360_ip_riskscore": "0", "ip_address": "1.119.131.20"}, "malicious_type": {"latest_brute_force_time": "", "is_web_attacker": "false", "scanner_confidence": "", "co
+mpromised_info": [], "is_ddos": "true", "is_brute_force": "false", "is_ddos_active_or_passive": "active", "latest_web_attack_time": "", "latest_scanner_time": "", "is_malicious": "true", "latest_spam_time": "",
+"latest_ddos_time": "2018-03-04", "latest_compromised_time": "", "is_spam": "false", "latest_malicious_time": "2018-03-04", "is_scanner": "false", "ddos_confidence": "40%", "is_compromised": "false"}}
+1.12.9.136	{"traits": {"is_proxy": "false", "latest_user_type_update_time": "", "latest_record_update_time": "2019-02-17", "latest_proxy_time": "", "latest_idc_time": "", "as_number": "AS4847", "daily aver
+age number of endpoints with the same IP address in latest 7 days": "", "user_type": "\u5883\u5185\u5bb6\u5ead", "is_idc": "false", "service_provider": "", "proxy_type": "", "latest_domain_time": "", "latest_do
+main": ""}, "geo_location": {"city": "\u5317\u4eac", "country": "\u4e2d\u56fd", "longitude": "116.405285", "district/county": "", "latitude": "39.904989", "township": "", "province/state": "\u5317\u4eac"}, "web
+_attack": [], "score": {"360_ip_riskscore": "0", "ip_address": "1.12.9.136"}, "malicious_type": {"latest_brute_force_time": "", "is_web_attacker": "false", "scanner_confidence": "", "compromised_info": [{"lates
+t_compromised_time": "2018-08-20", "malware_type": "\u8fdc\u63a7\u6728\u9a6c", "malware_family": "Generic Trojan"}], "is_ddos": "true", "is_brute_force": "false", "is_ddos_active_or_passive": "active", "latest_
+web_attack_time": "", "latest_scanner_time": "", "is_malicious": "true", "latest_spam_time": "", "latest_ddos_time": "2016-03-19", "latest_compromised_time": "2018-08-20", "is_spam": "false", "latest_malicious_
+time": "2018-08-20", "is_scanner": "false", "ddos_confidence": "40%", "is_compromised": "true"}}
