@@ -1,7 +1,7 @@
 import time
 from kafka import KafkaProducer
 from kafka import KafkaClient
-kafa_host = "localhost:9092"
+hosts = "localhost:9092"
 
 topic='spark_streaming_test'
 
