@@ -23,12 +23,13 @@ public class RDDBaseOperationsSample {
         //获取当前分区数
 //        System.out.println(ints.partitions().size());
 //        processByFlatMap(ints);
-        processByFold(ints);
+//        processByFold(ints);
 //        processByAggregate(ints);
 //        processByDoubleRDD(ints);
 //        processByPersist(ints);
 
     }
+
 
     private static void processByPersist(JavaRDD<Integer> ints) {
         ints.persist(StorageLevel.MEMORY_ONLY());

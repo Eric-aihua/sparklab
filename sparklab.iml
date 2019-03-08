@@ -151,6 +151,7 @@
     <orderEntry type="library" name="Maven: org.apache.commons:commons-crypto:1.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.spark-project.spark:unused:1.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.spark:spark-streaming_2.11:2.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.elasticsearch:elasticsearch-hadoop:6.6.1" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.51" level="project" />
     <orderEntry type="library" name="Maven: org.apache.spark:spark-streaming-kafka-0-10_2.11:2.2.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.kafka:kafka_2.11:0.10.0.1" level="project" />
